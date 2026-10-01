@@ -68,6 +68,8 @@ This allows agents to stay fast and focused, while still executing tasks with re
 | [sequenzy-email-marketing](https://github.com/Sequenzy/skills/tree/main/skills/sequenzy-email-marketing) | Operate Sequenzy email marketing and transactional/product email workflows from AI agents, including subscribers, campaigns, sequences, templates, sending, and usage checks. |
 | [istio-traffic-management](https://github.com/wshobson/agents/tree/main/plugins/cloud-infrastructure/skills/istio-traffic-management) | Configure Istio traffic management including routing, load balancing, circuit breakers, and canary deployments. Use when implementing service mesh traffic policies, progressive delivery, or resilience patterns. |
 | [web-typography-skill](https://github.com/simongonzalezdc/web-typography-skill) | Web typography workflow for readable, accessible front-end text. |
+| [build-with-better-design](https://github.com/better-designs/better-design-plugin/tree/main/skills/build-with-better-design) | Build or redesign a web or mobile interface on a Better Design design system. Use when the user asks for an app, site, page, dashboard or component and wants it built on Better Design, or asks to choose, create or install a design system. |
+| [review-ui-with-better-design](https://github.com/better-designs/better-design-plugin/tree/main/skills/review-ui-with-better-design) | Review an interface with Better Design's checks for accessibility, visual design, copy clarity and spacing. Use when the user asks to review, audit or check a screen, or after building one with Better Design. |
 
 ---
 
